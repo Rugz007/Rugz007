@@ -1,15 +1,10 @@
 ## Hi there, I'm Rugved Somwanshi,aka Rugz007, a fellow programmer. 👋
-## I'm a Student,Full Stack Web-Developer and a Data Scientist.
+### I'm a Student,Full Stack Web-Developer and a Data Scientist.
 
 - 🌱 I’m currently learning everything 🤣
 - :video_game: I love making and playing Video-games! 
 - 🥅 2021 Goals: Learn new technologies and contribute more to the open source community. Get my YouTube channel up and running again.
 - :snowman: Fun fact: I love to draw and play tennis.
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.rugz007.vercel.app/api/spotify)](https://open.spotify.com/user/1b5xlc4o8htosduwyk1ili35p?si=MjR6gpmSQT6YErWpdAHKUQ)
-
 
 ### Connect with me:
 <p align="left">
