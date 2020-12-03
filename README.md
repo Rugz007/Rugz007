@@ -1,8 +1,4 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
-
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
+### Hi there, I'm Rugved Somwanshi,aka Rugz007, a fellow programmer. 👋
 ## I'm a Student,Full Stack Web-Developer and a Data Scientist.
 
 - 🌱 I’m currently learning everything 🤣
@@ -20,7 +16,7 @@
 <a href="https://linkedin.com/in/rugved-somwanshi-29078417b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rugved-somwanshi-29078417b" height="30" width="40" /></a>
 <a href="https://kaggle.com/rugz007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="rugz007" height="30" width="40" /></a>
 <a href="https://instagram.com/rugz007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rugz007" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucr_db0azwmodlsefhdxqvva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucr_db0azwmodlsefhdxqvva" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCr_Db0azwmODLSEfHdXQvvA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucr_db0azwmodlsefhdxqvva" height="30" width="40" /></a>
 </p>
 <br />
 
@@ -32,9 +28,4 @@
 
 
 
-  <img align="left" alt="Rugz's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-
-[youtube]: https://www.youtube.com/channel/UCr_Db0azwmODLSEfHdXQvvA
-[instagram]: https://instagram.com/rugz007
-[linkedin]: https://linkedin.com/in/rugved-somwanshi-29078417b
