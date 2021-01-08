@@ -8,10 +8,10 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/rugved-somwanshi-29078417b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rugved-somwanshi-29078417b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rugved-somwanshi-29078417b" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png"/></a>
 <a href="https://kaggle.com/rugz007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="rugz007" height="30" width="40" /></a>
-<a href="https://instagram.com/rugz007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rugz007" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCr_Db0azwmODLSEfHdXQvvA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucr_db0azwmodlsefhdxqvva" height="30" width="40" /></a>
+<a href="https://instagram.com/rugz007" target="blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></a>
+<a href="https://www.youtube.com/channel/UCr_Db0azwmODLSEfHdXQvvA" target="blank"><img src="https://img.icons8.com/color/48/000000/youtube--v3.png"/></a>
 </p>
 <br />
 
@@ -28,7 +28,6 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/></a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a> 
 <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/></a> 
