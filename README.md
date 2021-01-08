@@ -12,10 +12,8 @@
 <a href="https://instagram.com/rugz007" target="blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></a>
 <a href="https://www.youtube.com/channel/UCr_Db0azwmODLSEfHdXQvvA" target="blank"><img src="https://img.icons8.com/color/48/000000/youtube--v3.png"/></a>
 </p>
-<br />
 
 ### Languages and Tools:
-
 
 <p align="left"> 
 <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
@@ -39,6 +37,7 @@
 <br />
 
 
-[![Rugved's github stats](https://github-readme-stats.rugz007.vercel.app/api?username=rugz007)](https://github.com/anuraghazra/github-readme-stats)
+[![Rugved's github stats](https://github-readme-stats.rugz007.vercel.app/api?username=rugz007&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.rugz007.vercel.app/api/top-langs/?username=rugz007&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
