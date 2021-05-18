@@ -4,7 +4,7 @@
 ### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/rugved-somwanshi-29078417b" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png"/></a>
-<a href="https://instagram.com/rugz007" target="blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></a>
+<a href="https://instagram.com/codebeaver" target="blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></a>
 <a href="https://www.youtube.com/channel/UCr_Db0azwmODLSEfHdXQvvA" target="blank"><img src="https://img.icons8.com/color/48/000000/youtube--v3.png"/></a>
 </p>
 
