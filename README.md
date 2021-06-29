@@ -3,9 +3,9 @@
 ![](https://komarev.com/ghpvc/?username=Rugz007)
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/rugved-somwanshi-29078417b" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png"/></a>
-<a href="https://instagram.com/codebeaver" target="blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></a>
-<a href="https://www.youtube.com/channel/UCr_Db0azwmODLSEfHdXQvvA" target="blank"><img src="https://img.icons8.com/color/48/000000/youtube--v3.png"/></a>
+<a href="https://linkedin.com/in/rugved-somwanshi-29078417b" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/codebeaver" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCr_Db0azwmODLSEfHdXQvvA" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 ### Languages and Tools:
