@@ -1,6 +1,6 @@
 ## Hello, I'm Rugved Somwanshi. 👋
 ### I'm a Student,Full Stack Web-Developer and a Data Scientist.
-
+![](https://komarev.com/ghpvc/?username=Rugz007)
 ### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/rugved-somwanshi-29078417b" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v2.png"/></a>
