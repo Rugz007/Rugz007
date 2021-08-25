@@ -43,10 +43,5 @@
 </p>
 <br />
 
-<p align='center'>
-<img src="https://github-readme-stats.rugz007.vercel.app/api?username=rugz007&show_icons=true&theme=dark"/>
-</p>
-<p align='center'>
-<img src="https://github-readme-stats.rugz007.vercel.app/api/top-langs/?username=rugz007&layout=compact&theme=dark"/>
-</p>
+
 
