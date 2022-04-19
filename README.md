@@ -6,7 +6,7 @@
 </p>
 <p align="center">
 <img src='https://komarev.com/ghpvc/?username=Rugz007' />
-<a href="https://rugvedsomwanshi.me" target="blank"><img src='https://badgen.net/badge/Portfolio/online/purple' /></a
+<a href="https://rugvedsomwanshi.in" target="blank"><img src='https://badgen.net/badge/Portfolio/online/purple' /></a
 </p>
 <p align="center">
 <a href="https://linkedin.com/in/rugved-somwanshi-29078417b" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
