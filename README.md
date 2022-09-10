@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Rugved Somwanshi</h1>
-<h3 align="center">I'm a Student, Full Stack Web-Developer, a Data Scientist and a former Game Developer.</h3>
+<h3 align="center">I'm a Full Stack Web-Developer, a Data Scientist and a Game Developer.</h3>
 
 <p align="center">
 <img src='https://data.whicdn.com/images/54406285/original.gif' />
